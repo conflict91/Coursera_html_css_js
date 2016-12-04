@@ -1,0 +1,10 @@
+@media (max-width: 1199px) {
+	.footer {
+		position: relative;
+	}
+}
+@media (max-width: 991px) {
+	.footer {
+		position: relative;
+	}
+}
